@@ -1,0 +1,9 @@
+{
+	"name": "df-amrit-azureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4dab69d6-1c22-4c36-9560-012c16d27500",
+		"tenantId": "4ac50105-0c66-404e-a107-7cbd8a9a6442"
+	}
+}
